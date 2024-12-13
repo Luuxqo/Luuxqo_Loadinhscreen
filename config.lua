@@ -1,4 +1,4 @@
 Config = {}
 
--- SUPPORT: https://discord.gg/87Knk6HSxE
+-- Support discord: luuxqo12
 -- CREATED BY: Luuxqo
